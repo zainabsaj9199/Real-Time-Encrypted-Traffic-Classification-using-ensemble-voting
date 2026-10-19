@@ -1,0 +1,7 @@
+/mycode
+.python-version
+*.tar
+*.__pycache__
+/__pycache__
+/.venv312
+/.venv
